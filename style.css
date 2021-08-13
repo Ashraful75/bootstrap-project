@@ -1,0 +1,26 @@
+.pink-bg {
+    background-color: #fceae8;
+}
+.buy-now-button {
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 8px 25px;
+    cursor: pointer;
+}
+.categories img {
+    width: 100px;
+}
+.card {
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.card-footer {
+    border: none;
+    background-color: #fff !important;
+}
+.contact-area {
+    height: 300px;
+    background-color: #FCEAE8;
+}
